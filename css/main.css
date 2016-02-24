@@ -132,9 +132,9 @@ a {
 /* Content */
 
 .post {
-    overflow: hidden;
     margin-bottom: 40px;
     border-bottom: 1px solid #e7ebed;
+    padding: 0 30px;
 }
 
 .post .title {
@@ -201,13 +201,12 @@ a {
 /* Sidebar */
 
 #sidebar {
-    margin: 0;
     padding: 30px 0 0 0;
 }
 
 #sidebar ul {
     margin: 0;
-    padding: 0;
+    padding: 0 20px;
     list-style: none;
 }
 

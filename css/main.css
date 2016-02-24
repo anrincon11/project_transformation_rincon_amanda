@@ -59,6 +59,13 @@ a {
     background: #ffffff url("../img/img05.jpg") repeat;
 }
 
+/* Header */
+
+
+#header {
+    margin: 0 auto;
+}
+
 /* Logo */
 
 #logo h1 {
@@ -93,6 +100,11 @@ a {
 }
 
 /* Menu */
+
+#menu {
+    margin: 0 auto;
+    padding: 0;
+}
 
 #menu ul {
     margin: 0;

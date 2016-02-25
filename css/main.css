@@ -58,7 +58,6 @@ a {
 
 @media (min-width: 300px) {
     #logo {
-        width: 218.75px;
         margin: auto;
     }
 }
@@ -70,6 +69,10 @@ a {
 }
 
 /* Logo */
+
+#logo {
+    width: 218.75px;
+}
 
 #logo h1 {
     line-height: 120px;

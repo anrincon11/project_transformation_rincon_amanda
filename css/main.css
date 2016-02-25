@@ -56,9 +56,15 @@ a {
     margin: 0 auto;
 }
 
+@media (min-width: 300px) {
+    #logo {
+        width: 218.75px;
+        margin: auto;
+    }
+}
+
 @media (min-width: 900px) {
     #logo {
-        width: 30%;
         float: left;
     }
 }

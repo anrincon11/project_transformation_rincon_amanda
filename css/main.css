@@ -60,9 +60,15 @@ a {
 
 /* Header */
 
-
 #header {
     margin: 0 auto;
+}
+
+@media (min-width: 900px) {
+    #logo {
+        width: 30%;
+        float: left;
+    }
 }
 
 /* Logo */
@@ -131,22 +137,26 @@ a {
     color: #ffffff;
 }
 
-@media all and (min-width: 600px) {
+@media (min-width: 600px) {
     nav li {
-        width: 50%;
+        width: 20%;
         display: inline-block;
     }
 }
 
-@media all and (min-width: 800px) {
+@media (min-width: 800px) {
     nav li {
         width: calc(100% / 5);
     }
 }
 
-@media all and (min-width: 900px) {
+@media (min-width: 900px) {
+    nav ul {
+        width: calc(100% / 2);
+        float: right;
+    }
     nav li {
-        width: calc(100% / 10);
+        margin: 10px 0;
     }
 }
 

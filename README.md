@@ -10,6 +10,8 @@ This assignment was a great way to learn how to convert a static site into a res
 
 ## GitHub Repository
 
+[Amanda's Project Transformation Repository](https://github.com/anrincon11/project_transformation_rincon_amanda.git)
+
 ### Comments
 
 The one thing I absolutely loved about this assignment was learning how to take an already pre-built static website and convert it to a responsive site. I have been wanting to do this very thing with all the websites I have built, but never knew where to start. Now I do!
